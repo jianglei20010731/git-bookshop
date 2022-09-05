@@ -18,7 +18,7 @@
         </div> <!-- nav-info -->
         <form action="searchBook.do" method="post">
             <div class="nav-search">
-                <a href="home.do"><img class="logo" src="<%=request.getContextPath()%>/img/logo2.png"></a>
+                <a href="/home.do"><img class="logo" src="<%=request.getContextPath()%>/img/logo2.png"></a>
                 <div class="search-form">
                     <input id="search-input" name="name" type="search" class="searchIn" placeholder="搜图书...">
                     <a href="#" class="search-logo">| &nbsp;<img src="<%=request.getContextPath()%>/img/search.png"></a>

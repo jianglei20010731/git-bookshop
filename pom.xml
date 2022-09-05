@@ -249,6 +249,14 @@
             <type>pom</type>
         </dependency>
 
+        <dependency>
+            <groupId>org.wltea.ik-analyzer</groupId>
+            <artifactId>ik-analyzer</artifactId>
+            <version>3.2.8</version>
+        </dependency>
+
+
+
     </dependencies>
 
     <properties>
